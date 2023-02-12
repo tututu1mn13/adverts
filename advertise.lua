@@ -1,1 +1,1 @@
-game.Players.LocalPlayer:Kick("Disabled for now")
+game.Players.LocalPlayer:Kick("Offline for now")
